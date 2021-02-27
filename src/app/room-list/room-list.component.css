@@ -1,0 +1,8 @@
+th, td {
+    text-align: center;
+    border: 2px solid white;
+}
+
+thead>tr>th {
+    cursor: pointer;
+}
